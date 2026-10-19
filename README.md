@@ -20,7 +20,7 @@ sin control centralizado de usuarios, sin backups ni monitorización,
 y con hardware costoso.
 
 ## Arquitectura (resumen)
-Internet → Firewall → Switch virtual → 5 VMs sobre Proxmox VE.
+Internet → Firewall → Switch virtual → 5 VMs sobre VMWare o VirtualBox
 
 ## Plan por sprints
 1. Análisis y planificación
@@ -38,6 +38,5 @@ Internet → Firewall → Switch virtual → 5 VMs sobre Proxmox VE.
 
 ## Estado actual
 
-Sprint 1 en curso
 Sprint 1 en curso.
 
