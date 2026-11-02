@@ -33,8 +33,7 @@ Internet → Firewall → Switch virtual → 5 VMs sobre VMWare o VirtualBox
 - `/docs/memoria` — memoria técnica en LaTeX
 - `/docs/adr` — decisiones de arquitectura
 - `/docs/retrospectivas` — retrospectivas
-- `/design` — diagramas
-- `/src` — scripts
+
 
 ## Estado actual
 
